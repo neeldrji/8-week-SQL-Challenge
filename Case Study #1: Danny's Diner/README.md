@@ -24,3 +24,5 @@ Danny has shared with you 3 key datasets for this case study:
 ![image](https://user-images.githubusercontent.com/81607668/127271130-dca9aedd-4ca9-4ed8-b6ec-1e1920dca4a8.png)
 
 ***
+
+Click [here](https://github.com/neeldrji/8-week-SQL-Challenge/blob/5daa27622c737e94880897a47c636fc63d46e162/Case%20Study%20%231%3A%20Danny's%20Diner/Question%20and%20Solution.md) to view the solution solution of the case study!
