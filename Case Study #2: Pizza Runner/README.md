@@ -43,3 +43,4 @@ There are some known data issues with few tables. Data cleaning was performed an
 
 ## Solutions
 - [A. Pizza Metrics](https://github.com/neeldrji/8-week-SQL-Challenge/blob/c82b677d8d9b0b14ba93f90c75ea5939911ad8c5/Case%20Study%20%232%20-%20Pizza%20Runner/A.%20Pizza%20Metrics.md)
+- [B. Runner and Customer Experience](https://github.com/neeldrji/8-week-SQL-Challenge/blob/121795ced2878064a62a438af5d314821f3d494a/Case%20Study%20%232%3A%20Pizza%20Runner/B.%20Runner%20and%20Customer%20Experience.md)
