@@ -35,6 +35,8 @@ There are some known data issues with few tables. Data cleaning was performed an
 - The duration column contains null values and inconsistent units such as 'minutes,' 'mins,' and 'minute,' which should be standardized.
 - The cancellation column has both blank spaces and null values that need to be cleaned.
 
+- Click [Here](https://github.com/neeldrji/8-week-SQL-Challenge/blob/eb856910d8f80803c52b6e4b660a4de9cd794159/Case%20Study%20%232%3A%20Pizza%20Runner/Data%20Cleaning.md) to view Data cleaning & transfomation.
+
 ## Entity Relationship Diagram
 
 ![Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/assets/81607668/78099a4e-4d0e-421f-a560-b72e4321f530)
